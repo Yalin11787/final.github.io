@@ -1,0 +1,8 @@
+I didn't think I had enough interesting personal credentials to base the content of the site on, so I chose to create an introductory site for a literary work I really like. 
+This work greatly influenced my triad in the year I turned 18 and became an adult; I am able to empathize with every character, and my interests pretty much centered around this work.
+Therefore, in a sense, this work also represents me as a person.
+The story takes place in winter, and it snows whenever there's a major plot twist,so I decided to set the site on a winter night with snowflakes falling.
+The name of this story is White Album, so the links at the bottom of the home page are presented as album photos.
+Based on feedback from the last assignment, I set up a loader for the Twitter timeline so that visitors don't miss that part when it loads. 
+I also added links to the weeklies, exercises, and a page of inspiration at the bottom of the front page as requested.
+I chose to present these three links as images from the story in order to not ruin the overall vibe of the site.
